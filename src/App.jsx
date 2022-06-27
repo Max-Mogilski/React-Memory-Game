@@ -3,12 +3,30 @@ import "./App.css";
 import Card from "./components/Card";
 
 const cardImages = [
-	{ src: "/img/helmet-1.png", matched: false },
-	{ src: "/img/potion-1.png", matched: false },
-	{ src: "/img/ring-1.png", matched: false },
-	{ src: "/img/scroll-1.png", matched: false },
-	{ src: "/img/shield-1.png", matched: false },
-	{ src: "/img/sword-1.png", matched: false },
+	{
+		src: "https://github.com/Hero1230/React-Memory-Game/blob/master/public/img/helmet-1.png?raw=true",
+		matched: false,
+	},
+	{
+		src: "https://github.com/Hero1230/React-Memory-Game/blob/master/public/img/potion-1.png?raw=true",
+		matched: false,
+	},
+	{
+		src: "https://github.com/Hero1230/React-Memory-Game/blob/master/public/img/ring-1.png?raw=true",
+		matched: false,
+	},
+	{
+		src: "https://github.com/Hero1230/React-Memory-Game/blob/master/public/img/scroll-1.png?raw=true",
+		matched: false,
+	},
+	{
+		src: "https://github.com/Hero1230/React-Memory-Game/blob/master/public/img/shield-1.png?raw=true",
+		matched: false,
+	},
+	{
+		src: "https://github.com/Hero1230/React-Memory-Game/blob/master/public/img/sword-1.png?raw=true",
+		matched: false,
+	},
 ];
 
 function App() {

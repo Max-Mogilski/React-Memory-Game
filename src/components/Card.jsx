@@ -12,7 +12,7 @@ const Card = ({ card, handleChoice, flipped, disabled }) => {
 				<img className={classes.front} src={card.src} alt="card front" />
 				<img
 					className={classes.back}
-					src="/img/cover.png"
+					src="https://github.com/Hero1230/React-Memory-Game/blob/master/public/img/cover.png?raw=true"
 					onClick={handleClick}
 					alt="card back"
 				/>
