@@ -1,6 +1,5 @@
 # Memory Game in React
 
-This project come from React course by The Net Ninja, but I tried to make it by myself.
-I also made memory game in pure js which doesn't come from any course. It should be pinned in my gh profile.
+My project comes from The Net Ninja's React course, but I tried to make it myself. Additionally, I created a pure js memory game that did not come from a course. It should be pinned to my gh profile.
 
 Check it out live: https://hero1230.github.io/React-Memory-Game/
